@@ -15,6 +15,36 @@
 - Routers:kết nối các mạng khác nhau và hỗ trợ lựa chọn con đường tốt nhất để truyền dữ liệu giữa hai mạng.  
 - WLAN: Wireless LAN of WAN devices conected network devices.  
 
+3.Nguồn chia sẽ và lợi ích?  
+- Dữ liệu và ứng dụng:chia sẻ tập tin, phần mềm và chương trình ứng dụng.  
+- Nguồn:các thiết bị đầu vào và thiết bị đầu ra.    
+- Lưu trữ mạng: lưu trữ gắn trực tiếp (DAS), mạng lưu trữ đính kèm (NAS), mạng lưu trữ (SAN).  
+- Các thiết bị sao lưu: cung cấp phương tiện trung tâm để lưu các tập tin từ nhiều máy tính, có khả năng lưu trữ và khắc phục sự cố .  
+
+4.Ứng dụng mạng?  
+- Trình duyệt wed(chrome,cốc cốc,...)  
+- Ứng dụng làm việc tập thể  
+- E mail( gamil,yahoo,...)  
+- Chat( facebook,zalo,viber,...)  
+- ...   
+
+5.Đặc tính?  
+- Chi phí  
+- Tính bảo mật  
+- Tốc độ  
+- Khả năng mở rộng  
+- Độ tin cậy của đường truyền trong hệ thống mạng.  
+- ...  
+
+
+---  
+
+
+##OSI-TCP/IP  
+1.Mô hình?  
+![ảnh](http://www.hocmangcoban.com/2014/04/mo-hinh-osi-va-tcpip.html)
+
+
 
 
   
