@@ -42,7 +42,7 @@
 
 ##OSI-TCP/IP  
 1.Mô hình?  
-![ảnh](http://www.hocmangcoban.com/2014/04/mo-hinh-osi-va-tcpip.html)
+![img](http://1.bp.blogspot.com/-dEPOLAvxsek/UzQcvDS44KI/AAAAAAAAACw/c_Fxrkuul7k/s1600/Osi-model-jb.png)
 
 
 
