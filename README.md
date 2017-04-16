@@ -57,6 +57,7 @@
 **Mô hình**  
 ![img](http://2.bp.blogspot.com/-jH4TzAOcspU/UzQeMUZ1JlI/AAAAAAAAADA/cWNGZjCtkI4/s1600/TCP-IP-Model.png)  
 **Trong mô hình phân lớp:**  
+
 - *Lớp truy cập mạng:* Cung cấp giao diện tương tác với mạng vật lý. Format dữ liệu cho bộ phận truyền tải trung gian và tạo địa chỉ dữ liệu cho các tiểu mạng dựa trên địa chỉ phần cứng vật lý. Cung cấp việc kiểm tra lỗi trong quá trình truyền dữ liệu.  
 - *Lớp Internet:* Cung cấp địa chỉ logic, độc lập với phần cứng, để dữ liệu có thể lướt qua các tiểu mạng có cấu trúc vật lý khác nhau. Cung cấp chức năng định tuyến để giao lưu lượng giao thông và hỗ trợ việc vận chuyển liên mạng. Thuật ngữ liên mạng được dùng để đề cập đến các mạng rộng lớn hơn, kết nối từ nhiều LAN. Tạo sự gắn kết giữa địa chỉ vật lý và địa chỉ logic.  
 - *Lớp vận chuyển:* Giúp kiểm soát luồng dữ liệu, kiểm tra lỗi và xác nhận các dịch vụ cho liên mạng. Đóng vai trò giao diện cho các ứng dụng mạng.  
